@@ -5,6 +5,7 @@ Google Chrome Extension which checks and invites all of your friends instead of 
 
 
 # How to install
+
 1. Clone this repo `git clone https://github.com/perlatsp/FB_Friends_Checker.git`  or download zip and extract it
 2. Got to [Chrome extensions settings](chrome://extensions/) and enable developer mode
 3. Click  'Load unpacked extension' button and browse to your repo/extracted folder
